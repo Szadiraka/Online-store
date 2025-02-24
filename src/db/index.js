@@ -1,0 +1,36 @@
+import { AiFillStar } from "react-icon/ai";
+const data = [
+  {
+    img: "",
+    title: "Nike Air Monarch IV",
+    star: <AiFillStar clasName="rating-star" />,
+    reviews: "(123 reviews)",
+    prevPrice: "140,00",
+    newPrice: "200",
+    company: "Nike",
+    color: "white",
+    category: "sneakers",
+  },
+  {
+    img: "",
+    title: "Nike Air Vapormax Plus",
+    star: <AiFillStar clasName="rating-star" />,
+    reviews: "(123 reviews)",
+    prevPrice: "140,00",
+    newPrice: "200",
+    company: "Nike",
+    color: "white",
+    category: "sneakers",
+  },
+  {
+    img: "",
+    title: "Nike Waffle One Sneaker",
+    star: <AiFillStar clasName="rating-star" />,
+    reviews: "(123 reviews)",
+    prevPrice: "140,00",
+    newPrice: "200",
+    company: "Nike",
+    color: "green",
+    category: "sneakers",
+  },
+];
